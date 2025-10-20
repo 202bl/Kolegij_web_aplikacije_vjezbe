@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vježba 1 – Svemirski objekt</title>
+</head>
+<body>
+    <h1>FOTO: Gorući objekt pronađen u australskoj pustinji vjerojatno je pao iz svemira</h1>
+    <h2>Stručnjaci sumnjaju da se radi o dijelu kineske rakete</h2>
+
+    <p>U australskoj pustinji pronađen je veliki gorući objekt za koji se vjeruje da je svemirski otpad.</p>
+    <p>Istraga je u tijeku, a stručnjaci pokušavaju utvrditi njegovo porijeklo i potvrditi sumnje da potječe iz kineskog svemirskog programa.</p>
+</body>
+</html>
